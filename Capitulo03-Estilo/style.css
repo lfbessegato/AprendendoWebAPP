@@ -1,0 +1,17 @@
+/* Estamos utilizando o corpo aqui */
+body {
+    background: lightcyan; /* Define a cor do primeiro plano como vermelho */
+    width: 800px; /* Define a largura do corpo para 800 pixels */
+    margin: auto; /* Define a margem de forma automática */
+}
+
+h1{
+    color: marron;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px;
+}

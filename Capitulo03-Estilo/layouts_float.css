@@ -1,0 +1,22 @@
+main {
+    width: 500px;
+    margin: auto;
+    background: gray;
+    overflow: auto;
+}
+
+nav {
+    /* remova o comentário da próx. linha para obter uma borda
+    em torno de nav */
+    /* border: 3px solid black */
+
+    width: 100px;
+    float: right;
+}
+
+p.content {
+    margin: 0; /* Define a margem default de p */
+    padding: 10px;
+    float: left;
+    width: 380px; /* 400 - 2*10 = 380 */
+}
